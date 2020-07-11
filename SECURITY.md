@@ -11,7 +11,7 @@ currently being supported with security updates.
 | OPPO    | :x:                |
 | VIVO    | :x:                |
 | REALME  | :x:                |
-| SAMSKNG | :x:                |
+| SAMSUNG | :x:                |
 | I-PHONE | :x:                |
 ## Reporting a Vulnerability
 
